@@ -70,9 +70,3 @@ func ex5() {
 	fmt.Println(y5)
 	fmt.Printf("%T\n", y5)
 }
-
-// Example 6
-
-func ex6() {
-
-}
