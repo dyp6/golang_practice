@@ -27,6 +27,7 @@ func ex1() {
 }
 
 // Example 2
+// Automatically assigns value to variables called the zero-value
 var x2 int
 var y2 string
 var z2 bool
@@ -37,7 +38,6 @@ func ex2() {
 	fmt.Println(z2)
 }
 
-// Assigns values to variables, they are called the zero-value
 var x3 int = 42
 var y3 string = "James Bond"
 var z3 bool = true
