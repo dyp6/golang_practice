@@ -7,22 +7,22 @@ import (
 func main() {
 	fmt.Println("Exercise 1:")
 	ex1()
-	fmt.Println("\n")
+	fmt.Println()
 	fmt.Println("Exercise 2:")
 	ex2()
-	fmt.Println("\n")
+	fmt.Println()
 	fmt.Println("Exercise 3:")
 	ex3()
-	fmt.Println("\n")
+	fmt.Println()
 	fmt.Println("Exercise 4:")
 	ex4()
-	fmt.Println("\n")
+	fmt.Println()
 	fmt.Println("Exercise 5:")
 	ex5()
-	fmt.Println("\n")
+	fmt.Println()
 	fmt.Println("Exercise 6:")
 	ex6()
-	fmt.Println("\n")
+	fmt.Println()
 }
 
 var x1 int
